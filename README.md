@@ -57,3 +57,6 @@ sarahsakordaniels@gmail.com
 [LinkedIn](https://www.linkedin.com/in/sarahsakordaniels/)
 
 [Medium](www.medium.com/@sarahsakordaniels)
+
+
+Shoutout to Unsplash for the photos used in this project.
