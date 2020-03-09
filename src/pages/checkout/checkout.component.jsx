@@ -33,6 +33,10 @@ const CheckoutPage = ({cartItems, total}) => (
         <div className='total'>
             <span>TOTAL: ${total}</span>
         </div>
+        <div className='test-warning'>
+            Use this card information to make a test purchase: < br/>
+             #: 4242 4242 4242 4242 - EXP: 01/25 - CV: 123
+        </div>
         <StripeCheckoutButton price={total}/>
     </div>
 )
