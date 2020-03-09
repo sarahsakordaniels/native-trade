@@ -36,6 +36,9 @@ I'm a fan of being as waste-free and eco-conscious as possible! Although I don't
 ## View Cart & Update Quantity At Checkout
 ![](checkout.gif)
 
+## Stripe Integration
+![](stripe.gif)
+
 ---
 
 
@@ -44,11 +47,12 @@ I'm a fan of being as waste-free and eco-conscious as possible! Although I don't
 - Redux
 - Firebase
 - Sass
+- Stripe
 
 
 # Future Implementations
-- Currently in Progress:
-  - Integrating Stripe for "payments"
+- Customize more - implement styled components 
+- Explore use of Hooks and GraphQL
 
 
 # Contact Me
